@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Wed-developer
 -------------
 
-I'm a Frontend Developer passionate about building interactive and responsive web applications. With expertise in HTML, CSS, and JavaScript, along with frameworks like React.js, I create seamless user experiences. I enjoy transforming complex problems into intuitive, accessible designs. Currently, I'm exploring the latest trends in web development and enhancing my skills in performance optimization and progressive web apps.
-
 * 🌍  I'm based in Gujranwala, Pakistan
 * ✉️  You can contact me at [211400172@gift.edu.pk](mailto:211400172@gift.edu.pk)
 * 🧠  I'm learning react-native
 * 🤝  I'm open to collaborating on Projects
+
+I'm a Frontend Developer passionate about building interactive and responsive web applications. With expertise in HTML, CSS, and JavaScript, along with frameworks like React.js, I create seamless user experiences. I enjoy transforming complex problems into intuitive, accessible designs. Currently, I'm exploring the latest trends in web development and enhancing my skills in performance optimization and progressive web apps.
 
 ### Skills
 
@@ -21,7 +21,7 @@ I'm a Frontend Developer passionate about building interactive and responsive we
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Urwa Khadim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/UrwaKhadim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Urwa Khadim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/urwa-urwa-0743a6269/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
