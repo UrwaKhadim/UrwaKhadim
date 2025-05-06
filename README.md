@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is UrwaKhadim
 ==================================================================================================================================
 
-Web-developer | Software Engineer
+Software Engineer
 ---------------------------------
 
 * 🌍  I'm based in Gujranwala, Pakistan
@@ -9,10 +9,7 @@ Web-developer | Software Engineer
 * 🧠  I'm learning react-native
 * 🤝  I'm open to collaborating on Projects
 
-I'm a Frontend Developer passionate about building interactive and responsive web applications. With expertise in HTML, CSS, and JavaScript, along with frameworks like React.js, I create seamless user experiences. I enjoy transforming complex problems into intuitive, accessible designs. Currently, I'm exploring the latest trends in web development and enhancing my skills in performance optimization and progressive web apps.
-
-### Skills
-
+I'm a Frontend Developer passionate about crafting interactive, responsive, and user-centric applications. With strong expertise in HTML, CSS, and JavaScript—alongside frameworks like React.js—I specialize in building seamless, accessible web experiences that simplify complex problems through thoughtful design. I'm also deeply engaged in mobile computing, developing cross-platform mobile applications using React Native. Currently, I'm exploring Unity to dive into immersive app and game development. I stay driven by curiosity and a commitment to delivering smooth, engaging user experiences across platforms.
 
 ### Skills 
 <p align="left">
