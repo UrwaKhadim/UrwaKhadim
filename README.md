@@ -5,7 +5,7 @@ Software Engineer
 ---------------------------------
 
 * 🌍  I'm based in Gujranwala, Pakistan
-* ✉️  You can contact me at [211400172@gift.edu.pk](mailto:211400172@gift.edu.pk)
+* ✉️  You can contact me at [urwakhadim31@gmail.com](mailto:urwakhadim31@gmail.com)
 * 🧠  I'm learning react-native
 * 🤝  I'm open to collaborating on Projects
 
